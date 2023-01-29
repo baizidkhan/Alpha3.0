@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="00b7bb69-559a-4765-a9b8-4b2ba4711c62" name="Changes" comment="insert conditional statement" />
+    <list default="true" id="00b7bb69-559a-4765-a9b8-4b2ba4711c62" name="Changes" comment="insert conditional statement">
+      <change afterPath="$PROJECT_DIR$/BasicJava/ConditionalStatement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Alpha 3.0/BasicJava/hello.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Alpha 3.0/BasicJava/hello.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +39,20 @@
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.hello">
+  <component name="RunManager" selected="Application.ConditionalStatement">
+    <configuration name="ConditionalStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BasicJava.ConditionalStatement" />
+      <module name="Alpha 3.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BasicJava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="VarData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BasicJava.VarData" />
       <module name="Alpha 3.0" />
@@ -64,6 +81,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConditionalStatement" />
         <item itemvalue="Application.hello" />
         <item itemvalue="Application.VarData" />
       </list>
@@ -89,7 +107,7 @@
       <workItem from="1674645228910" duration="2037000" />
       <workItem from="1674839928194" duration="3846000" />
       <workItem from="1675013990150" duration="2112000" />
-      <workItem from="1675019590493" duration="1668000" />
+      <workItem from="1675019590493" duration="2536000" />
     </task>
     <task id="LOCAL-00001" summary="insert conditional statement">
       <created>1675020924994</created>
