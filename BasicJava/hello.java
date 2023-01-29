@@ -3,7 +3,7 @@ import java.util.*;
 
 public class hello {
     public static void main(String[] args) {
-        System.out.println("Enter age number: ");
+        System.out.println("Enter an integer age number: ");
     Scanner sc = new Scanner(System.in);
     int Age = sc.nextInt();
 
