@@ -111,6 +111,28 @@ public class ConditionalStatement {
         */
 
 
+
+
+//################################################################
+//        Print the largest of 3
+
+        Scanner sc = new Scanner (System.in);
+        int A,B,C;
+        System.out.println("Enter an integer number for A");
+        A = sc.nextInt();
+        System.out.println("Enter an integer number for B");
+        B = sc.nextInt();
+        System.out.println("Enter an integer number for C");
+        C = sc.nextInt();
+
+        if((A >= B) && (A >= C)){
+            System.out.println("A is largest of 3..");
+        } else if(B >= C) {
+            System.out.println("A is largest of 3..");
+        } else {
+            System.out.println("C is largest of 3..");
+        }
+
     }
 }
 
