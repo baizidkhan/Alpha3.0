@@ -69,7 +69,7 @@ public class ConditionalStatement {
             System.out.println("Number is Odd!!");
         }
 
-        */
+
 
 
         //        **##################################################################**
@@ -86,6 +86,29 @@ public class ConditionalStatement {
         } else if (Income >= 1000000){
             System.out.println("You have to Pay 30% tax.");
         }
+
+
+
+
+//        || Alternate process ::
+
+        Scanner sc = new Scanner(System.in);
+        int income = sc.nextInt();
+
+        int Tax;
+
+        if(income < 500000){
+            Tax = 0;
+        } else if (income >= 500000 && income < 1000000) {
+            Tax = (int) (income * 0.2);
+        } else if (income >= 1000000) {
+            Tax = (int) (income * 0.3);
+        }
+
+        System.out.println("Your tax is :: ");
+        System.out.println(Tax);
+
+        */
 
 
     }
