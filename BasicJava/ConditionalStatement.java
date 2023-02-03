@@ -108,7 +108,7 @@ public class ConditionalStatement {
         System.out.println("Your tax is :: ");
         System.out.println(Tax);
 
-        */
+
 
 
 
@@ -132,6 +132,13 @@ public class ConditionalStatement {
         } else {
             System.out.println("C is largest of 3..");
         }
+
+        */
+
+
+        int number = 5;
+        String type = ((number%2) == 0) ? "Even" : "Odd";
+        System.out.println(type);
 
     }
 }
