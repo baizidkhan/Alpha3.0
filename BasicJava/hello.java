@@ -17,7 +17,9 @@ public class hello {
         }
 
 
-         */
+
+########################################################################
+//  Ternary operator ::
 
 
         int number = 70;
@@ -25,5 +27,41 @@ public class hello {
         System.out.println("The number is :: " + Bik);
 
 
+
+
+//######################################################################
+//        Switch Statement ::
+
+        Scanner sc = new Scanner(System.in);
+        String option = sc.next();
+
+        switch (option){
+            case "a" : System.out.println("Correct!!");
+            break;
+            case "b" : System.out.println("May be!!");
+                break;
+            case "c" : System.out.println("Might be!!");
+                break;
+            case "d" : System.out.println("Near by!!");
+                break;
+            default:
+                System.out.println("Wrong..");
+        }
+
+         */
+
+
+
+//#################################################################
+
+//      Ternary Operator ::
+
+        int num = 7;
+        String result = (num%2 == 0) ? "Even" : "Odd";
+        System.out.println("Number is :: " + result);
+
+
+
     }
+
 }

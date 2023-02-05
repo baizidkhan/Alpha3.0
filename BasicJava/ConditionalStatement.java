@@ -148,7 +148,7 @@ public class ConditionalStatement {
         String Status = (marks >= 33) ? "Pass" : "Fail";
         System.out.println("Result :: " + Status);
 
-        */
+
 
 
 
@@ -175,6 +175,36 @@ public class ConditionalStatement {
                 break;
                 default :
                     System.out.println("We weak up!!");
+        }
+
+
+*/
+
+//##########################################################
+//        Calculator using switch statement ::
+
+        Scanner sc = new Scanner(System.in);
+        int a, b;
+        System.out.println("Enter a :");
+        a = sc.nextInt();
+        System.out.println("Enter b :");
+        b = sc.nextInt();
+
+        System.out.println("Enter operator :");
+        char operator = sc.next().charAt(0);
+
+        switch (operator){
+            case '+' : System.out.println(a+b);
+            break;
+            case '-' : System.out.println(a-b);
+            break;
+            case '*' : System.out.println(a*b);
+            break;
+            case '/' : System.out.println(a/b);
+            break;
+            case '%' : System.out.println(a%b);
+            break;
+            default: System.out.println("Wrong Operator..");
         }
 
 

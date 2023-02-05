@@ -4,6 +4,8 @@
     <list default="true" id="00b7bb69-559a-4765-a9b8-4b2ba4711c62" name="Changes" comment="Add another conditional statement">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BasicJava/ConditionalStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/BasicJava/ConditionalStatement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicJava/hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/BasicJava/hello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Alpha 3.0/BasicJava/hello.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Alpha 3.0/BasicJava/hello.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +114,7 @@
       <workItem from="1675267933519" duration="3617000" />
       <workItem from="1675441406651" duration="2743000" />
       <workItem from="1675450805143" duration="597000" />
-      <workItem from="1675522260314" duration="3178000" />
+      <workItem from="1675522260314" duration="6485000" />
     </task>
     <task id="LOCAL-00001" summary="insert conditional statement">
       <created>1675020924994</created>
