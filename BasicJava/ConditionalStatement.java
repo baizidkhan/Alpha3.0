@@ -150,10 +150,16 @@ public class ConditionalStatement {
 
         */
 
+
+
         //################################################################
 //        Switch Statement ::
 
-        int number = 2;
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter an integer number ::");
+        int number = sc.nextInt();
+
+
         switch (number){
             case 1 :
                 System.out.println("Paper");
