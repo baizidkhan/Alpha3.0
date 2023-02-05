@@ -5,8 +5,8 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BasicJava/ConditionalStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/BasicJava/ConditionalStatement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BasicJava/hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/BasicJava/hello.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Alpha 3.0/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Alpha 3.0/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Alpha 3.0/BasicJava/ConditionalStatement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Alpha 3.0/BasicJava/ConditionalStatement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Alpha 3.0/BasicJava/hello.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Alpha 3.0/BasicJava/hello.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +113,9 @@
       <workItem from="1675109927007" duration="1805000" />
       <workItem from="1675167747629" duration="4306000" />
       <workItem from="1675267933519" duration="3617000" />
-      <workItem from="1675441406651" duration="1524000" />
+      <workItem from="1675441406651" duration="2743000" />
+      <workItem from="1675450805143" duration="597000" />
+      <workItem from="1675522260314" duration="2478000" />
     </task>
     <task id="LOCAL-00001" summary="insert conditional statement">
       <created>1675020924994</created>

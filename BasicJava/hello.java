@@ -20,7 +20,7 @@ public class hello {
          */
 
 
-        int number = 7;
+        int number = 70;
         String Bik = (number%2 == 0) ? "Even" : "Odd";
         System.out.println("The number is :: " + Bik);
 

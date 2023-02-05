@@ -133,12 +133,47 @@ public class ConditionalStatement {
             System.out.println("C is largest of 3..");
         }
 
-        */
+
 
 
         int number = 5;
         String type = ((number%2) == 0) ? "Even" : "Odd";
         System.out.println(type);
+
+
+        //################################################################
+        // Ternary Operator :: Check if a student will Pass or Fail ..
+
+        int marks = 73;
+        String Status = (marks >= 33) ? "Pass" : "Fail";
+        System.out.println("Result :: " + Status);
+
+        */
+
+        //################################################################
+//        Switch Statement ::
+
+        int number = 2;
+        switch (number){
+            case 1 :
+                System.out.println("Paper");
+                break;
+            case 2 :
+                System.out.println("Pen");
+                break;
+            case 3 :
+                System.out.println("Cycle");
+                break;
+            case 4 :
+                System.out.println("Ice-Cream");
+                break;
+                default :
+                    System.out.println("We weak up!!");
+        }
+
+
+
+
 
     }
 }
