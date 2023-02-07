@@ -194,15 +194,15 @@ public class ConditionalStatement {
         char operator = sc.next().charAt(0);
 
         switch (operator){
-            case '+' : System.out.println(a+b);
+            case '+' : System.out.println("Sum of 2 number:: " + a+b);
             break;
-            case '-' : System.out.println(a-b);
+            case '-' : System.out.println("Subtract of 2 number:: " + (a-b));
             break;
-            case '*' : System.out.println(a*b);
+            case '*' : System.out.println("Multiple of 2 number:: " + a*b);
             break;
-            case '/' : System.out.println(a/b);
+            case '/' : System.out.println("Division of 2 number:: " + a/b);
             break;
-            case '%' : System.out.println(a%b);
+            case '%' : System.out.println("Modulo of 2 number:: " + a%b);
             break;
             default: System.out.println("Wrong Operator..");
         }
