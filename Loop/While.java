@@ -27,7 +27,7 @@ public class While {
             num ++;
         }
 
- */
+
 
 
 
@@ -44,10 +44,26 @@ public class While {
             counter ++;
         }
 
+ */
 
 
+//####################################################################
+//  Print sum of first N number ::
 
+        System.out.println("Enter N number what you want :: ");
+        Scanner sc = new Scanner(System.in);
+        int n, sum, i;
+        n = sc.nextInt();
 
+        sum = 0;
+        i = 1;
+
+        while (i <= n){
+            sum += i;
+            i++;
+        }
+
+        System.out.println("Sum is : " + sum);
 
 
 
